@@ -7,6 +7,12 @@ Yes but you need to pay, this plugin is private.
 # How much it cost?
 It cost 20€.
 
+# How do I pay?
+You need to contact me on telegram, @SonoVarion
+
+# Payments Method
+PayPal.
+
 # FEATURES
 
 -Kits
